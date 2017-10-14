@@ -1,0 +1,5 @@
+git常用命令
+git status :查看当前状态
+git add :添加文件,"."表示添加所有文件
+git commit : 提交到本地仓库
+git push : 推送到远程仓库
