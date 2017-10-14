@@ -1,4 +1,4 @@
-# mysql
+# MySQL
 
 ## 学习JDBC
 
